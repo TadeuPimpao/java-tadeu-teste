@@ -1,2 +1,2 @@
 # java-tadeu-teste
-Teste de reositório.
+Teste de repositório.
